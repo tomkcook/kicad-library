@@ -2190,6 +2190,12 @@ K Transistor NPN/PNP
 F http://www.nxp.com/documents/data_sheet/PMBT3946YPN.pdf
 $ENDCMP
 #
+$CMP PMDT290UNE
+D 50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET Logic Level
+F http://www.fairchildsemi.com/ds/BS/BSS138.pdf
+$ENDCMP
+#
 $CMP PN2222A
 D 40V Vce, 1A Ic, NPN, General Purpose Transistor, TO-92
 K NPN Transistor
